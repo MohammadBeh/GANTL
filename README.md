@@ -30,7 +30,7 @@ This is the code and data for [GANTL: Toward Practical and Real-Time Topology Op
 
 ### Data and Models
 
-The data can be downloaded from this [link](https://drive.google.com/drive/folders/1lkI4e-_hpCkYbiIJg7X32cW82QbonfFU?usp=sharing). You have to extract that to the data folder ( it would be like `data/'res'`) . To download the pretrained models, you can use this [link](https://drive.google.com/drive/folders/1rMdaGLWM1QwXOJVm12ATg-43Z8IRZAqk?usp=sharing). You have to extract the models under GANTL folder (it would be like `GANTL/'res'`). 
+The data can be downloaded from this [link](https://drive.google.com/file/d/1GyVDC45SYtdLqUxWqHFVw2hOw2bViR91/view?usp=sharing). You have to extract that to the data folder ( it would be like `data/'res'`) . To download the pretrained models, you can use this [link](https://drive.google.com/file/d/1jdrkzhph7uJaWDNgjH7e2RmE8XRsvGSg/view?usp=sharing). You have to extract the models under GANTL folder (it would be like `GANTL/'res'`). 
 
 ### Using Example
 
