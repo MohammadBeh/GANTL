@@ -18,6 +18,7 @@ This is the code and data for [GANTL: Toward Practical and Real-Time Topology Op
 - `--traintest`: 
   - Options: 
     - `traintest` which train the model and test that
+      - Note: You have to train on 4080 before you try to train on other resolutions.
     - `test` which test the saved model
 - `--batch_size`: The batch size for the model training (default = 16)
 - `--n_epoch`: The number of epochs for training (default = 500)
@@ -26,6 +27,10 @@ This is the code and data for [GANTL: Toward Practical and Real-Time Topology Op
 - `--TOloss` : Whether to test the TO model or not (default = False)
   - Note 1: it should be used only on the test mode
   - Note 2: the resolution must be 200400
+
+### Data and Models
+
+The data can be downloaded from this [link](https://drive.google.com/drive/folders/1lkI4e-_hpCkYbiIJg7X32cW82QbonfFU?usp=sharing). You have to extract that to the data folder ( it would be like `data/'res'`) . To download the pretrained models, you can use this [link](https://drive.google.com/drive/folders/1rMdaGLWM1QwXOJVm12ATg-43Z8IRZAqk?usp=sharing). You have to extract the models under GANTL folder (it would be like `GANTL/'res'`). 
 
 ### Using Example
 
